@@ -29,3 +29,13 @@ Windows operating system
 C++ development environment
 Contributing
 Contributions are welcome! Fork the repository, make improvements, and submit a pull request.
+
+
+Group members:
+BSIT51F22R014 : Tayyba Saqlain
+BSIT51F22R013: Mianhil Asif
+BSIT51F22R007: Zumar Khalid
+
+Program:
+BSIT 4th Regular
+
