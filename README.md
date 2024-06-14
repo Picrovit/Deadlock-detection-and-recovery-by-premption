@@ -6,7 +6,8 @@ BSIT51F22R013: Mianhil Asif
 
 BSIT51F22R007: Zumar Khalid
 
-
+Program:
+BSIT 4th Regular
 
 Deadlock Detection and Recovery
 This project demonstrates deadlock detection and recovery in a system with processes and resources. It includes a graphical user interface (GUI) to interactively manage and visualize the resource allocation graph.
@@ -40,6 +41,5 @@ C++ development environment
 Contributing
 Contributions are welcome! Fork the repository, make improvements, and submit a pull request.
 
-Program:
-BSIT 4th Regular
+
 
